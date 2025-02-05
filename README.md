@@ -9,6 +9,11 @@ Skilled in Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn), SQ
 
 Some of my notable projects include Data-Driven Salary Analysis, Interactive Visualizations with Plotly, Sentiment Analysis with LSTM, and Business Intelligence Dashboards.
 
-Let’s connect on LinkedIn.
+### 📬 Contact Me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikitha-kadaparthi-4a42321a8/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+
 
 "Data has a story—my role is to help tell it."
