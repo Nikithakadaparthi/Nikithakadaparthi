@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Nikithakadaparthi/Nikithakadaparthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Nikitha Kadaparthi
+📊 Senior Data Analyst | Python Enthusiast | 📈 Data Visualization Expert
 
-Here are some ideas to get you started:
+Passionate about transforming data into actionable insights that drive business growth. With expertise in Python, SQL, and data visualization, I specialize in uncovering trends, building predictive models, and creating intuitive dashboards to support data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skilled in Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn), SQL, Jupyter Notebooks, and GitHub. My work focuses on solving complex problems through analytical thinking and effective data storytelling.
+
+Some of my notable projects include Data-Driven Salary Analysis, Interactive Visualizations with Plotly, Sentiment Analysis with LSTM, and Business Intelligence Dashboards.
+
+Let’s connect on LinkedIn.
+
+"Data has a story—my role is to help tell it."
