@@ -1,5 +1,6 @@
 
 👋 Hi, I'm Nikitha Kadaparthi
+
 📊 Senior Data Analyst | Python Enthusiast | 📈 Data Visualization Expert
 
 Passionate about transforming data into actionable insights that drive business growth. With expertise in Python, SQL, and data visualization, I specialize in uncovering trends, building predictive models, and creating intuitive dashboards to support data-driven decisions.
