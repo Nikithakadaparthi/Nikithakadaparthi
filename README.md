@@ -1,13 +1,19 @@
 
 👋 Hi, I'm Nikitha Kadaparthi
 
-📊 Senior Data Scientist | Python Enthusiast | Data modeling Expert
+📊 Senior Data Scientist | Python Enthusiast | Data modeling Expert 
+
+## 🚀 Current Focus
+
+Actively working on Generative AI, Agentic AI workflows, and advanced Context Window Engineering (CWE). 
+
+Building stateful multi-agent systems with optimized memory layers, token efficiency strategies, and scalable LLM/SLM deployments for enterprise-grade applications.
+
+Focused on reliability, cost optimization, governance, and production-ready AI architectures.
 
 
-### 📬 Contact Me!
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:knikitharao7@gmail.com)
 
 
 
