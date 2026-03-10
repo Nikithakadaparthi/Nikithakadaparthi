@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Nikitha Kadaparthi
+👋 Hi, I'm Nikitha Rao
 
 📊 Senior Data Scientist | Python Enthusiast | Data modeling Expert 
 
